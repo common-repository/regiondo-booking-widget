@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+
+msgid "You can place this shortcode to your posts and pages:"
+msgstr ""
+
+msgid "Regiondo Widget"
+msgstr ""
+
+msgid "Regiondo widgets"
+msgstr ""
+
+msgid "Regiondo Booking Widget"
+msgstr ""
+
+msgid "Regiondo widget:"
+msgstr ""
+
+msgid "No widgets available"
+msgstr ""
+
+msgid "Edit Regiondo Widget"
+msgstr ""
+
+msgid "Add new widget"
+msgstr ""
+
+msgid "Edit Regiondo widget"
+msgstr ""
+
+msgid "View Regiondo widget"
+msgstr ""
+
+msgid "Search Regiondo widget"
+msgstr ""
+
+msgid "No Regiondo widgets found"
+msgstr ""
+
+msgid "No Regiondo widgets found in Trash"
+msgstr ""
+
+msgid "iFrame code"
+msgstr ""
+
+msgid "Insert Regiondo Booking Widget"
+msgstr ""
+
+msgid "Please select a Regiondo Booking Widget below to add it to your post or page."
+msgstr ""
+
+msgid "Please select a Regiondo Booking Widget"
+msgstr ""
+
+msgid "Select a Regiondo Booking Widget"
+msgstr ""
+
+msgid "No Regiondo Booking widgets found"
+msgstr ""
+
+msgid "Regiondo Widget updated <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
+
+msgid "Regiondo Widget updated."
+msgstr ""
+
+msgid "Regiondo Widget restored to revision from %s"
+msgstr ""
+
+msgid "Regiondo Widget restored to revision from"
+msgstr ""
+
+msgid "Regiondo Widget deleted."
+msgstr ""
+
+msgid "Regiondo Widget published."
+msgstr ""
+
+msgid "Regiondo Widget published. <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
+
+msgid "Regiondo Widget submitted."
+msgstr ""
+
+msgid "Regiondo Widget submitted. <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
+
+msgid "Regiondo Widget draft updated."
+msgstr ""
+
+msgid "Regiondo Widget draft updated. <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
